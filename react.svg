@@ -190,10 +190,13 @@
 }
 
 /* Shadow */
-main {
+.main {
   position: relative;
+display: flex;
+				justify-content: center;
+				align-item: center;
 }
-main::after {
+.main::after {
   content: "";
   display: block;
   position: absolute;
@@ -240,11 +243,14 @@ main::after {
   }
 }
 			</style>
+			<div class="main">
+				
  <div class="atom">
                   <div class="electron"></div>
                   <div class="electron-alpha"></div>
                   <div class="electron-omega"></div>
               </div>
+			</div>
 		</div>
 	</foreignObject>
 </svg>
