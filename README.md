@@ -7,7 +7,7 @@
 
 
 
-<div align="center">
+<div >
 	<br>
 	<a >
 		<img src="react.svg" width="800" height="400" alt="Click to see the source">
