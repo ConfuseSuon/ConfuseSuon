@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Suon Magar</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-<a align="center" href="https://confuse-suon.vercel.app/">  - 👨‍💻 All of my projects   </a>
-
-
-
 <div align="center">
 	<br>
 	<a >
@@ -14,7 +10,7 @@
 	</a>
 	<br>
 </div>
-
+<a align="center" href="https://confuse-suon.vercel.app/">  - 👨‍💻 All of my projects   </a>
 
 - 💬 Ask me about **react, js**
 
