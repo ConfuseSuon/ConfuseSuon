@@ -198,10 +198,12 @@ display: flex;
 }
 .main::after {
   content: "";
-  display: block;
+  display: flex;
+	justify-content: center;
+				align-item: center;			
   position: absolute;
   top: 115%;
-  left: 320px;
+  
   width: 180px;
   height: calc(180px / 5);
   background-image: radial-gradient(
