@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-- 👨‍💻 All of my projects are available at [confuse-suon.vercel.app](confuse-suon.vercel.app)
+- 👨‍💻 All of my projects are available at [(https://confuse-suon.vercel.app/)](confuse-suon.vercel.app)
 
 <div align="center">
 	<br>
