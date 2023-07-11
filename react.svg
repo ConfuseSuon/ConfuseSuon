@@ -245,5 +245,6 @@ main::after {
                   <div class="electron-alpha"></div>
                   <div class="electron-omega"></div>
               </div>
+		</div>
 	</foreignObject>
 </svg>
