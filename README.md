@@ -1,22 +1,3 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-      </style>
-
-      <div class="container">
-        <h1>Hi there, my name is Nikola 👋</h1>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
 
 
 <h1 align="center">Hi 👋, I'm Suon Magar</h1>
@@ -24,6 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [confuse-suon.vercel-app](confuse-suon.vercel-app)
 
+<div align="center">
+	<br>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="react.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
   
 <div class="atom">
                   <div class="electron"></div>
