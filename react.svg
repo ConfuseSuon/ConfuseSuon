@@ -201,7 +201,7 @@ display: flex;
   display: block;
   position: absolute;
   top: 115%;
-  left: 0;
+  left: 320px;
   width: 180px;
   height: calc(180px / 5);
   background-image: radial-gradient(
