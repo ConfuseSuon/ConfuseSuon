@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Suon Magar</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
-<a href="https://confuse-suon.vercel.app/">  - 👨‍💻 All of my projects   </a>
+
+<a align="center" href="https://confuse-suon.vercel.app/">  - 👨‍💻 All of my projects   </a>
 
 
 
