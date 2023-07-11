@@ -10,12 +10,17 @@
 	</a>
 	<br>
 </div>
-<a align="center" href="https://confuse-suon.vercel.app/">  - 👨‍💻 All of my projects   </a>
 
-- 💬 Ask me about **react, js**
 
-- 📫 How to reach me **sonupun500@gmail.com**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ConfuseSuon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ConfuseSuon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfuseSuon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=ConfuseSuon&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="left">
 </p>
 
