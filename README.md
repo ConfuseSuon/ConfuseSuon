@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Suon Magar</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h4 align="center">A Passionate Frontend Developer From Nepal</h4>
 
 <div align="center" >
 	<br>
