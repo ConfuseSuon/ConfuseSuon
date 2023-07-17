@@ -11,4 +11,4 @@
 	<br>
 </div>
 
-<h5>  <a href="https://confuse-suon.vercel.app/">Visit Me Here</a> </h5>
+<h5>  <a href="https://confuse-suon.vercel.app/" target="_new">Visit Me Here</a> </h5>
