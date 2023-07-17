@@ -6,7 +6,7 @@
 /* Atom */
 .atom {
   position: relative;
-  width: 180px;
+  width: 500px;
   height: 180px;
   animation: 8s atom infinite cubic-bezier(1, 0.25, 0, 0.75);
 }
