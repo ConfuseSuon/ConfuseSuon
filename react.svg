@@ -6,8 +6,8 @@
 /* Atom */
 .atom {
   position: relative;
-  width: 500px;
-  height: 180px;
+  width: 300px;
+  height: 300px;
   animation: 8s atom infinite cubic-bezier(1, 0.25, 0, 0.75);
 }
 @keyframes atom {
