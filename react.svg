@@ -3,10 +3,7 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 
-.wrapper{
-height: 1000px;				
-background: #28282B;
-}
+
 				
 /* Atom */
 .atom {
@@ -214,7 +211,7 @@ align-item: center;
   height: calc(180px / 5);
   background-image: radial-gradient(
     closest-side,
-    rgba(153, 248, 255, 0.5),
+    rgba(0, 0, 0, 0.5),
     rgba(0, 0, 0, 0)
   );
 		
@@ -252,7 +249,7 @@ align-item: center;
   }
 }
 			</style>
-			<div class="wrapper">
+		
 			<div class="main">
 		
  		<div class="atom">
@@ -261,7 +258,7 @@ align-item: center;
                   <div class="electron-omega"></div>
               </div>
 			</div>
-			</div>
+	
 		</div>
 	</foreignObject>
 </svg>
