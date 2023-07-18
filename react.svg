@@ -191,10 +191,11 @@
 
 /* Shadow */
 .main {
-  position: relative;
+position: relative;
+background: red;
 display: flex;
-				justify-content: center;
-				align-item: center;
+justify-content: center;
+align-item: center;
 }
 .main::after {
   content: "";
