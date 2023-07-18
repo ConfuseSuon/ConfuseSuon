@@ -1,5 +1,5 @@
 
-<div style={{background: "red"}}>
+
 
  
 <h5 align="center" >Hi 👋, I'm Suon Magar</h5>
@@ -14,4 +14,3 @@
 </div>
 
 <h5 align="center">  <a href="https://confuse-suon.vercel.app/" target="_blank">Say, Hi Me To Here</a> </h5>
-</div>
