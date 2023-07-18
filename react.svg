@@ -194,7 +194,6 @@
 /* Shadow */
 .main {
 position: relative;
-background: black;
 display: flex;
 justify-content: center;
 align-item: center;
